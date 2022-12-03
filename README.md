@@ -2,9 +2,9 @@
   <img src="https://github.com/qingshan2048/img/blob/main/yingcun.png" width="248">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Full Name-BC TradeSystem-brightgreen" alt="Full Name"/>
-  <img src='https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-success' alt='Operating System'/>
-  <img src="https://img.shields.io/badge/Trade Style-Hedging Transaction-brightgreen" alt="Miner Core"/>
+  <img src="https://img.shields.io/badge/Full Name-BC TradeSystem-lightgrey" alt="Full Name"/>
+  <img src='https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-lightgrey' alt='Operating System'/>
+  <img src="https://img.shields.io/badge/Trade Style-Hedging Transaction-lightgrey" alt="Miner Core"/>
 </p>
 
 # 🔥 币策  `对冲交易系统`
