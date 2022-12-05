@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-9cf" alt="Operating System"/>
   <img src="https://img.shields.io/badge/Download Format-Movie and Picture-9cf" alt="Miner Core"/>
   <img src="https://img.shields.io/badge/Download Format-Movie and Picture-9cf" alt="Miner Core" logo="github"/>
+  [![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/seladb/PcapPlusPlus?label=Cirrus%20CI&logo=cirrusci&style=flat)](https://cirrus-ci.com/github/seladb/PcapPlusPlus)
 </p>
 
 # 🔥 影存  `视频下载工具`
