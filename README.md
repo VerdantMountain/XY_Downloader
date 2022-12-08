@@ -56,6 +56,7 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2023-00-00 - v1.00.y（即将发布）
+2022.12.08 完成了嗅探器功能模块
 2022.12.03 设计完毕了项目的LOGO
 2022.12.02 项目名称定为影存
 2022.11.30 决定启动项目
