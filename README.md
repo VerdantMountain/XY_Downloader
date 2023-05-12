@@ -56,6 +56,8 @@
 - 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
 2023-00-00 - v1.00.y（即将发布）
+
+2023.05.12 增加了Twitter文件保存路径的选择功能
 2023.05.11 完成了Twitter高清图片下载功能
 2022.12.08 完成了嗅探器功能模块
 2022.12.03 设计完毕了项目的LOGO
