@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/qingshan2048/img/blob/main/yingcun.png" width="248">
+  <img src="https://github.com/qingshan2048/img/blob/main/YC_logo.png" width="248">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Full Name-YC Downloader-9cf?logo=Windows Terminal" alt="Full Name"/>
