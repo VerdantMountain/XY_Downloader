@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Download Format-Movie and Picture-9cf?logo=Fortran" alt="Miner Core"/>
 </p>
 
-# 🔥 影存  `视频下载工具`
+# 🔥 迅影  `视频下载工具`
 
 - **适用场景**：通过在交易所对冲交易实现虚拟货币盈利
 - **图形界面**：操作界面干净整洁，清晰易懂，配置简洁方便
