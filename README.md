@@ -1,77 +1,108 @@
 <p align="center">
-  <img src="https://github.com/qingshan2048/img/blob/main/logo_XY.png" width="248">
+  <img src="https://github.com/VerdantMountain/resource/blob/main/kl_mining_system_github_logo.png" width="240">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Full Name-YC Downloader-9cf?logo=Windows Terminal" alt="Full Name"/>
-  <img src="https://img.shields.io/badge/Operating System-Winodws 7/8/9/10/11-9cf?logo=Windows" alt="Operating System"/>
-  <img src="https://img.shields.io/badge/Download Format-Movie and Picture-9cf?logo=Fortran" alt="Miner Core"/>
+  <img src="https://img.shields.io/badge/Software Name-KL Mining System-blue?logo=Windows Terminal" alt="Full Name"/>
+  <img src="https://img.shields.io/badge/Compatible System-Winodws 10 / 11-blue?logo=Windows" alt="Operating System"/>
+  <img src="https://img.shields.io/badge/Program Type-Cryptocurrency Mining-blue?logo=ReSharper" alt="Miner Core"/>
 </p>
 
-# 🔥 迅影  `视频下载工具`
+<!--
+<p align="center">
+  <a href="https://twitter.com/intent/follow?screen_name=VerdantMountain">
+    <img src="https://img.shields.io/twitter/follow/VerdantMountain?style=social&logo=X" alt="follow on Twitter"></a>
+</p>
+-->
 
-- **适用场景**：通过在交易所对冲交易实现虚拟货币盈利
+<!--
+<div align="center">
+
+[![X Follow](https://img.shields.io/twitter/follow/VerdantMountain?style=social&logo=X)](https://twitter.com/intent/follow?screen_name=VerdantMountain)
+[![GitHub followers](https://img.shields.io/github/followers/VerdantMountain?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
+[![GitHub Stars](https://img.shields.io/github/stars/VerdantMountain/KL-Mining-System?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
+[![GitHub Forks](https://img.shields.io/github/forks/VerdantMountain/KL-Mining-System?style=social)](https://github.com/VerdantMountain/KL-Mining-System)
+[![GitHub Open Issues](https://img.shields.io/github/issues/VerdantMountain/KL-Mining-System?style=social&label=Open%20Issues)](https://github.com/VerdantMountain/KL-Mining-System)
+[![GitHub Closed Issues](https://img.shields.io/github/issues-closed/VerdantMountain/KL-Mining-System?style=social&label=Closed%20Issues)](https://github.com/VerdantMountain/KL-Mining-System)
+</div>
+-->
+
+# 🥇 矿龙 - 网吧挖矿系统
+
+- **适用场景**：网吧网咖，电竞酒店，数据中心，均适用
 - **图形界面**：操作界面干净整洁，清晰易懂，配置简洁方便
 - **程序设计**：采用计算机底层纯C语言编写，运行稳定流畅不卡顿
-- **软件算法**：内置性能优良的算法引擎，确保行情掌控的精准性灵敏性
-- **特色功能**：兼容大多数交易所，并且和交易所的数据接口实现了高速优化
+- **软件算法**：内置性能优良的挖矿内核，保证物理机算力的最大利用率
+- **特色功能**：可以对显存进行检测并智能躲避大型游戏，优先保证客户体验
 - **数据安全**：软件处理的数据采用数据加密处理，确保了数据传输过程中的安全
 - **更新升级**：软件常年保持高频率的更新，最大限度的保证了性能和市场的高度匹配
+- ==================================================➤➤
+<br><img src="https://github.com/VerdantMountain/resource/blob/main/kl_mining_system_github_banner_2.png" width="760"></br>
+## 🌐 矿池连接
 
-## 💡 软件展示
+- 目前大陆地区已经无法直连矿池，需要[中转](https://github.com/VerdantMountain/KL-Mining-System#-%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90-%EF%B8%8F)服务器等方式连接矿池，以下格式仅作示范
 
-<p align="center">
-<img src="https://github.com/qingshan2048/img/blob/main/yingcun.png" width="640">
-</p>
+|  协议  |  格式  |  说明  |
+|---|---|---|
+|  TCP协议  |  eth.f2pool.com:6688  |  填写 (ip: 端口) 则默认tcp协议，备池可留空  |
+|  TCP协议  |  stratum+tcp://eth.f2pool.com:6688  |  挖矿地址的完整格式，备用矿池地址可留空  |
+|  SSL加密  |  stratum+ssl://asia.f2pool.com:6698  |  挖矿地址的完整格式，备用矿池地址可留空  |
 
-## 📝 文件下载
+- 注意：我们并不建议使用非加密的TCP端口，以防中间人攻击，侵吞您的算力。
 
-- 文件可在上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 下载，或者右侧 Releases 里下载
+## 🖥 安装使用
+
+<details>
+<summary> 1. 📥 下载 / Download（点此查看下载方法）</summary>
+  
+  - 应用程序在右侧 [```Releases```](https://github.com/VerdantMountain/KL-Mining-System/releases) 中挑选所需版本下载 或者 上方 <img src="https://img.shields.io/badge/code-brightgreen"/> 按钮中点击 `Download ZIP` 下载工程文件
+</details>
 
 |  文件名称  |  说明  |  格式  |
 |---|---|---|
-|  BICE v1.xx.z.exe  |  币策对冲交易系统主程序  |  Windows系统 二进制可执行文件  |
+|  KL Mining System v1.xx.x.exe  |  矿龙网吧挖矿系统主程序  |  Windows系统 二进制可执行文件  |
 |  README.md  |  程序介绍及使用说明文件  |  Github程序社区md格式说明文件  |
 
-## 🔧 安装使用
+<details>
+<summary> 2. ⚙ 配置 / Configuration（点此查看支持系统）</summary>
+  
+  ```bash
+  支持系统：
+  Windows 10 系统（暂不支持英文版）
+  Windows 11 系统（暂不支持英文版）
+  ```
+</details>
 
-- 运行系统 Windows 7/8/10/11
-
-```bash
-1.双击运行软件，填写参数及交易方式，点击开始交易即可
-
-2.如账户余额不足可以选择充值，点击充值完成龙币的充值
-```
-
-## 🌭 参数格式
-
-- 需要正确配置交易所的密钥才可以访问交易所的账户进行交易
-
-|  密钥  |  格式  |  说明  |
+|  模式  |  设置  |  说明  |
 |---|---|---|
-|  Access Key  |  fr2wer5t6y-c270284b-125387ca-4b0b9  |  公钥，需要在交易所中提取  |
-|  Secret Key  |  1b7w338c-84ea5d6w-edfa778e-1a125  |  私钥，需要在交易所中提取  |
+|  空闲模式  |  在空闲模式选项卡中配置挖矿参数  |  当键鼠在单位分钟内没有操作时则启动挖矿  |
+|  锁屏模式  |  在锁屏模式选项卡中配置挖矿参数  |  当检测到计算机处于锁屏状态时则启动挖矿  |
 
-## 🔨 更新日志
+<details>
+<summary> 3. ▶️ 运行 / Running（点此查看疑难处理）</summary>
+  
+  - 网维大师客户机无法同步挖矿程序的解决方法：https://github.com/VerdantMountain/resource#%E7%9F%BF%E9%BE%99%E7%BD%91%E7%BB%B4%E5%A4%A7%E5%B8%88%E5%AE%A2%E6%88%B7%E6%9C%BA%E6%97%A0%E6%B3%95%E5%90%8C%E6%AD%A5%E6%8C%96%E7%9F%BF%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95
+  - 网维大师调用的问题：用网维大师调用需要再虚拟盘中调用，用菜单调用可能会出现运行两次的情况
+</details>
 
-- 参考 [vue](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md) 规范 ([Angular](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular))
 ```bash
-2023-00-00 - v1.00.y（即将发布）
+1.双击运行软件，配置参数，选择输出目录，生成挖矿程序
 
-2023.05.12 增加了Twitter文件保存路径的选择功能
-2023.05.11 完成了Twitter高清图片下载功能
-2022.12.08 完成了嗅探器功能模块
-2022.12.03 设计完毕了项目的LOGO
-2022.12.02 项目名称定为影存
-2022.11.30 决定启动项目
+2.将生成的挖矿程序存放于任意目录下，设置开机启动即可
+
+3.稍等片刻，当有份额提交到矿池即可在矿池后台看到数据
 ```
 
-## 🚑 疑难解决
+## 📦 相关资源
 
-- 软件在使用VPN的系统上出现联网卡顿的问题：可能是由于VPN的防火墙阻止了网络连接请求，可以考虑使用香港服务器
-- 系统提示无法找到 VCRUNTIME140.DLL，MSVCP140.DLL，VCRUNTIME140_1.DLL 的解决方法：https://github.com/qingshan2048/resource/tree/main#%E5%B8%81%E7%AD%96%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E6%97%A0%E6%B3%95%E6%89%BE%E5%88%B0-vcruntime140dllmsvcp140dllvcruntime140_1dll-%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95
-
-## 🐛 相关资源 
-
+- **官方推特**：https://twitter.com/VerdantMountain
 - **机场推荐**：http://www.xihoogsi.com/index.php#/register?code=lCEyvEDI
-- **关于作者**：如有其他业务可以通过下面的方式联系作者
-- <img src="https://github.com/qingshan2048/img/blob/main/yingcun_weixin.png" width="360">
+- **最新驱动**：https://www.nvidia.cn/drivers/results/187610/
+- **技术支持**：如有技术问题或业务合作等事宜可通过下面的方式联系我们
+<br><img src="https://github.com/VerdantMountain/resource/blob/main/verdant_mountain_github_wechat_002.png" width="480"></br>
+
+<!--
+![Contributors](https://contributors-img.web.app/image?repo=Johnserf-Seed/TikTokDownload)
+![Contributors](https://github.com/qingshan2048/img/blob/main/KL_weixin.png)
+- 🎨💥✨👉🚀🌿🍯🌭🔨📝📁💖📧🙏⚖️📜👨‍💻🔬📸🎬✅❌🔘⌛🧰
+  - ⚙🐛🚑💡🔧🔥🍉🥰⛸🐌📭🍹📕🥥🥨🗂️🍤🥍🍌📺😀🐬🐞📃🕹️
+-->
