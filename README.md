@@ -3,9 +3,9 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Software Name-KL Mining System-blue?logo=Windows Terminal" alt="Full Name"/>
-  <img src="https://img.shields.io/badge/Software Name-XY Downloader-rgb(129, 194, 52)?labelColor=rgb(10, 119, 62)&logoColor=rgb(10, 119, 62)&logo=Windows Terminal" alt="Full Name"/>
-  <img src="https://img.shields.io/badge/Compatible System-Winodws 10 / 11-rgb(129, 194, 52)?labelColor=rgb(10, 119, 62)&logoColor=rgb(10, 119, 62)&logo=Windows" alt="Operating System"/>
-  <img src="https://img.shields.io/badge/Program Type-Crypto Mining-rgb(129, 194, 52)?labelColor=rgb(10, 119, 62)&logoColor=rgb(10, 119, 62)&logo=ReSharper" alt="Miner Core"/>
+  <img src="https://img.shields.io/badge/Software Name-XY Downloader-rgb(129, 194, 52)?labelColor=rgb(10, 119, 62)&logoColor=rgb(129, 194, 52)&logo=Windows Terminal" alt="Full Name"/>
+  <img src="https://img.shields.io/badge/Compatible System-Winodws 10 / 11-rgb(129, 194, 52)?labelColor=rgb(10, 119, 62)&logoColor=rgb(129, 194, 52)&logo=Windows" alt="Operating System"/>
+  <img src="https://img.shields.io/badge/Program Type-Movie Downloader-rgb(129, 194, 52)?labelColor=rgb(10, 119, 62)&logoColor=rgb(129, 194, 52)&logo=ReSharper" alt="Miner Core"/>
   <img src="https://img.shields.io/badge/Compatible System-Winodws 10 / 11-blue?logo=Windows" alt="Operating System"/>
   <img src="https://img.shields.io/badge/Program Type-Cryptocurrency Mining-blue?logo=ReSharper" alt="Miner Core"/>
 </p>
